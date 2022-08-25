@@ -1,6 +1,4 @@
 this is a abc text file only for mybranch.
-<<<<<<< HEAD
 line 2 from local
-=======
 add line 2
->>>>>>> a76be30316f7ed0b320bf26e96a2f4e8f44578b8
+
